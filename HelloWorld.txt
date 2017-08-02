@@ -1,7 +1,3 @@
 Hallo Welt
-Jetzt haben wir eine fertige Version
-<<<<<<< HEAD
+Jetzt haben wir eine fertige Version, das ist doch ein Scherz
 Das ist die verbesserung
-=======
-Das ist doch ein Scherz
->>>>>>> 5994ed4b5c91d62875a1cced2e3d80d4d606daaf

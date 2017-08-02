@@ -1,0 +1,36 @@
+[33mcommit 46a07f74e487333036b941cfe4e1c51e20227977[m
+Merge: 559ef75 c88e082
+Author: Fabian Orzlowski <fabian.orzlowski@ibm.com>
+Date:   Mon Jul 31 15:57:38 2017 +0200
+
+    Jetzt ist alles klar
+
+[33mcommit c88e082efa5d08b969c8f604e15d6d910a8dab4e[m
+Author: Fabian Orzlowski <fabian.orzlowski@ibm.com>
+Date:   Mon Jul 31 15:52:22 2017 +0200
+
+    Merge Test
+
+[33mcommit 5994ed4b5c91d62875a1cced2e3d80d4d606daaf[m
+Author: Fabian Orzlowski <fabian.orzlowski@ibm.com>
+Date:   Mon Jul 31 15:45:01 2017 +0200
+
+    Fehler wurde behoben #4
+
+[33mcommit 559ef75a789f864af28acd222edb9ea01c591efb[m
+Author: Fabian Orzlowski <fabian.orzlowski@ibm.com>
+Date:   Mon Jul 31 15:32:37 2017 +0200
+
+    Ich hab eine neue Zeile #2
+
+[33mcommit 0ac936d037d8b01a4cbe2ef637aff1e65bded956[m
+Author: Fabian Orzlowski <fabian.orzlowski@ibm.com>
+Date:   Mon Jul 31 15:23:56 2017 +0200
+
+    v1_0 #2
+
+[33mcommit 2f052896b12fbcd792bd771e4a5e2463ffdf9251[m
+Author: Fabian Orzlowski <fabian.orzlowski@ibm.com>
+Date:   Mon Jul 31 15:21:57 2017 +0200
+
+    HelloWorld #2
